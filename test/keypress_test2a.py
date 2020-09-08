@@ -36,7 +36,7 @@ key_dict = {
     'q': lambda: sys.exit(),
     }
 
-# Blocks until you press eqs
+# Blocks until you press esc
 # print('Press [Esc] to continue')
 # keyboard.wait('esc')
 # print('You pressed [Esc]')
