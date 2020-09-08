@@ -9,7 +9,7 @@ code is running.  This example implements a longer list of keys to process
 
 This example is based on the keyboard package found here:
     
- dfdf   https://pypi.org/project/keyboard/
+    https://pypi.org/project/keyboard/
 
 To install the keyboard package:
     
